@@ -110,7 +110,7 @@ desktop_tcp_test/
 ### Шаг 1. Клонирование репозитория
 
 ```bash
-git clone https://github.com/<ваш-username>/desktop_tcp_test.git
+git clone https://github.com/Maria-Banshchikova/desktop_tcp_test.git
 cd desktop_tcp_test
 ```
 
